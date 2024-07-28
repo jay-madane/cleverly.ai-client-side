@@ -1,1 +1,1 @@
-export const domainUrl = "http://localhost:8000";
+export const domainUrl = "https://cleverly-ai-server-side.vercel.app";
