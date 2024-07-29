@@ -10,6 +10,7 @@ Welcome to the client-side repository of **Cleverly.ai**, a SaaS AI platform des
   - Image Generation
   - Video Generation
   - Music Generation
+
 **Secure Authentication**: Enhanced user experience with secure authentication and efficient user management using Clerk Authentication.
 
 ## Technologies Used
@@ -59,4 +60,4 @@ To start the development server:
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:5173) to view it in the browser.
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
