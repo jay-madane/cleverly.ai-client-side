@@ -13,12 +13,15 @@ Welcome to the client-side repository of **Cleverly.ai**, a SaaS AI platform des
 
 **Secure Authentication**: Enhanced user experience with secure authentication and efficient user management using Clerk Authentication.
 
+**Modern UI**: Beautiful and responsive user interfaces using [shadcn/ui](https://ui.shadcn.com/).
+
 ## Technologies Used
 
-- **ReactJS**: For building the user interface.
-- **NodeJS & ExpressJS**: For handling the backend API.
+- **React**: For building the user interface.
+- **Node.js & Express.js**: For handling the backend API.
 - **TypeScript**: For type safety and better development experience.
 - **Tailwind CSS**: For styling the application.
+- **shadcn/ui**: For creating beautiful and responsive user interfaces.
 - **MongoDB**: For the database.
 
 ## Getting Started
